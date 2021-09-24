@@ -436,6 +436,7 @@ pre {
   .showcase-form {
     justify-self: center;
     margin: auto;
+    height: auto;
     animation: slideInFromBottom 1s ease-in;
   }
   .fearures-showcase-2 .showcase-text{
